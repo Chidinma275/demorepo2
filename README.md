@@ -1,6 +1,6 @@
 # Just a demo!
 
-This is me learning how to use git.
+This is me learning how to use git. ok
 
 Im a complete tech newbie
 
