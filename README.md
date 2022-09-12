@@ -2,8 +2,8 @@
 
 This is me learning how to use git. ok
 
-Im a complete tech newbie
+Im a complete tech newbie ( I say this a lot)
 
-Currently i am a Pharmacist
+Currently I am a Pharmacist (and this too)
 
 Watch this space!
